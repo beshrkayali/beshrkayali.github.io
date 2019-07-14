@@ -1,0 +1,12 @@
+*.pyc
+out
+__pycache__
+
+
+# Emacs Temp/Autosaves
+*~
+\#*\#
+.#*.*
+*_flymake*
+.markdown-preview.html
+.tags
